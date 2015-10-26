@@ -6,3 +6,5 @@
 
 使用[HeaderViewRecyclerAdapter](https://gist.github.com/darnmason/7bbf8beae24fe7296c8a)完成了加载更多的进度展示。
 
+运行效果如下图：
+![](https://github.com/liangzhitao/SwipeRefreshRecyclerView/blob/master/RefreshRecyclerView.gif)
