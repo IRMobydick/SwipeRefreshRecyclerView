@@ -1,4 +1,4 @@
-package cn.easydone.swiperefreshrecyclerview;
+package cn.easydone.swiperefreshendless;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.View;

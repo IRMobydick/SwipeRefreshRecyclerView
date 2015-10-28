@@ -14,6 +14,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
+import cn.easydone.swiperefreshendless.EndlessRecyclerOnScrollListener;
+import cn.easydone.swiperefreshendless.HeaderViewRecyclerAdapter;
 import rx.Observable;
 import rx.android.schedulers.AndroidSchedulers;
 import rx.functions.Func1;
