@@ -22,7 +22,7 @@ Step 2. Add the dependency in the form
 
 ```Java
 dependencies {
-	 compile 'com.github.liangzhitao:SwipeRefreshRecyclerView:1.0'
+	 compile 'com.github.liangzhitao:SwipeRefreshRecyclerView:1.1'
 }
 ```
 
